@@ -1,0 +1,11 @@
+/* Corrected CSS - bugSolution.css */
+#myElement {
+  color: blue;
+  font-size: 16px;
+}
+
+/* Original CSS with the bug - bug.css */
+#myElemnt { /*Typo here, should be #myElement*/
+  color: blue;
+  font-size: 16px;
+}
